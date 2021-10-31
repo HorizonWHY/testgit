@@ -1,1 +1,1 @@
-# testgit
+# Study how to use the git
